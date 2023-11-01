@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tuanjieShao
+- 👋 Hi, I’m Tuanjie Shao
 - 👀 I’m interested in LLM
 - 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on ...
